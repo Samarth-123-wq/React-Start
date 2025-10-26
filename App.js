@@ -24,6 +24,8 @@ const jsxheading = (
 
 const FunctionalComponent = () => (
   <h2>
+    {2 + 2}
+    {jsxheading}
     <h1>hello</h1>
     <div>Hello</div>
   </h2>
